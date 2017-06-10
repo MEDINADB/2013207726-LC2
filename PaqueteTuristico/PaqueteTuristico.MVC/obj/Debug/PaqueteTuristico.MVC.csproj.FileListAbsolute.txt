@@ -1,0 +1,361 @@
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico.MVC\bin\ApplicationInsights.config
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico.MVC\bin\roslyn\csc.exe
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico.MVC\bin\roslyn\csc.exe.config
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico.MVC\bin\roslyn\csc.rsp
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico.MVC\bin\roslyn\csi.exe
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico.MVC\bin\roslyn\csi.rsp
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico.MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico.MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico.MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico.MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico.MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico.MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico.MVC\bin\roslyn\System.AppContext.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico.MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico.MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico.MVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico.MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico.MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico.MVC\bin\roslyn\vbc.exe
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico.MVC\bin\roslyn\vbc.exe.config
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico.MVC\bin\roslyn\vbc.rsp
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico.MVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico.MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico.MVC\bin\PaqueteTuristico.MVC.dll.config
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico.MVC\bin\PaqueteTuristico.MVC.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico.MVC\bin\PaqueteTuristico.MVC.pdb
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico.MVC\bin\Antlr3.Runtime.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico.MVC\bin\EntityFramework.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico.MVC\bin\EntityFramework.SqlServer.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico.MVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico.MVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico.MVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico.MVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico.MVC\bin\Microsoft.AI.Web.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico.MVC\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico.MVC\bin\Microsoft.ApplicationInsights.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico.MVC\bin\Newtonsoft.Json.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico.MVC\bin\PaquetesTuristicos.Entities.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico.MVC\bin\PaquetesTuristicos.Persistence.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico.MVC\bin\System.Web.Helpers.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico.MVC\bin\System.Web.Mvc.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico.MVC\bin\System.Web.Optimization.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico.MVC\bin\System.Web.Razor.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico.MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico.MVC\bin\System.Web.WebPages.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico.MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico.MVC\bin\WebGrease.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico.MVC\bin\PaquetesTuristicos.Entities.pdb
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico.MVC\bin\PaquetesTuristicos.Persistence.pdb
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico.MVC\bin\PaquetesTuristicos.Persistence.dll.config
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico.MVC\bin\EntityFramework.xml
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico.MVC\bin\EntityFramework.SqlServer.xml
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico.MVC\bin\System.Web.Helpers.xml
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico.MVC\bin\System.Web.Mvc.xml
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico.MVC\bin\System.Web.Optimization.xml
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico.MVC\bin\System.Web.Razor.xml
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico.MVC\bin\System.Web.WebPages.xml
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico.MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico.MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico.MVC\bin\Antlr3.Runtime.pdb
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico.MVC\bin\Newtonsoft.Json.xml
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico.MVC\bin\Microsoft.ApplicationInsights.xml
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico.MVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico.MVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico.MVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico.MVC\bin\Microsoft.AI.Web.xml
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico.MVC\bin\es\System.Web.Helpers.resources.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico.MVC\bin\es\System.Web.Mvc.resources.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico.MVC\bin\es\System.Web.Optimization.resources.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico.MVC\bin\es\System.Web.Razor.resources.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico.MVC\bin\es\System.Web.WebPages.resources.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico.MVC\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico.MVC\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico.MVC\obj\Debug\PaqueteTuristico.MVC.csprojResolveAssemblyReference.cache
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico.MVC\obj\Debug\PaqueteTuristico.MVC.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico.MVC\obj\Debug\PaqueteTuristico.MVC.pdb
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico.MVC\bin\Ninject.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico.MVC\bin\Ninject.Web.Common.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico.MVC\bin\Ninject.Web.Mvc.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico.MVC\bin\WebActivatorEx.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico.MVC\bin\Ninject.xml
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico.MVC\bin\Ninject.Web.Common.xml
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico.MVC\bin\Ninject.Web.Mvc.xml
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaqueteTuristico.MVC\bin\ApplicationInsights.config
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaqueteTuristico.MVC\bin\roslyn\csc.exe
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaqueteTuristico.MVC\bin\roslyn\csc.exe.config
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaqueteTuristico.MVC\bin\roslyn\csc.rsp
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaqueteTuristico.MVC\bin\roslyn\csi.exe
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaqueteTuristico.MVC\bin\roslyn\csi.rsp
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaqueteTuristico.MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaqueteTuristico.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaqueteTuristico.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaqueteTuristico.MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaqueteTuristico.MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaqueteTuristico.MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaqueteTuristico.MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaqueteTuristico.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaqueteTuristico.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaqueteTuristico.MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaqueteTuristico.MVC\bin\roslyn\System.AppContext.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaqueteTuristico.MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaqueteTuristico.MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaqueteTuristico.MVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaqueteTuristico.MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaqueteTuristico.MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaqueteTuristico.MVC\bin\roslyn\vbc.exe
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaqueteTuristico.MVC\bin\roslyn\vbc.exe.config
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaqueteTuristico.MVC\bin\roslyn\vbc.rsp
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaqueteTuristico.MVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaqueteTuristico.MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaqueteTuristico.MVC\bin\PaqueteTuristico.MVC.dll.config
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaqueteTuristico.MVC\bin\PaqueteTuristico.MVC.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaqueteTuristico.MVC\bin\PaqueteTuristico.MVC.pdb
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaqueteTuristico.MVC\bin\Antlr3.Runtime.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaqueteTuristico.MVC\bin\EntityFramework.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaqueteTuristico.MVC\bin\EntityFramework.SqlServer.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaqueteTuristico.MVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaqueteTuristico.MVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaqueteTuristico.MVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaqueteTuristico.MVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaqueteTuristico.MVC\bin\Microsoft.AI.Web.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaqueteTuristico.MVC\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaqueteTuristico.MVC\bin\Microsoft.ApplicationInsights.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaqueteTuristico.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaqueteTuristico.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaqueteTuristico.MVC\bin\Newtonsoft.Json.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaqueteTuristico.MVC\bin\Ninject.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaqueteTuristico.MVC\bin\Ninject.Web.Common.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaqueteTuristico.MVC\bin\Ninject.Web.Mvc.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaqueteTuristico.MVC\bin\PaquetesTuristicos.Entities.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaqueteTuristico.MVC\bin\PaquetesTuristicos.Persistence.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaqueteTuristico.MVC\bin\System.Web.Helpers.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaqueteTuristico.MVC\bin\System.Web.Mvc.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaqueteTuristico.MVC\bin\System.Web.Optimization.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaqueteTuristico.MVC\bin\System.Web.Razor.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaqueteTuristico.MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaqueteTuristico.MVC\bin\System.Web.WebPages.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaqueteTuristico.MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaqueteTuristico.MVC\bin\WebActivatorEx.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaqueteTuristico.MVC\bin\WebGrease.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaqueteTuristico.MVC\bin\PaquetesTuristicos.Entities.pdb
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaqueteTuristico.MVC\bin\PaquetesTuristicos.Persistence.pdb
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaqueteTuristico.MVC\bin\PaquetesTuristicos.Persistence.dll.config
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaqueteTuristico.MVC\bin\EntityFramework.xml
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaqueteTuristico.MVC\bin\EntityFramework.SqlServer.xml
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaqueteTuristico.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaqueteTuristico.MVC\bin\Ninject.xml
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaqueteTuristico.MVC\bin\Ninject.Web.Common.xml
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaqueteTuristico.MVC\bin\Ninject.Web.Mvc.xml
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaqueteTuristico.MVC\bin\System.Web.Helpers.xml
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaqueteTuristico.MVC\bin\System.Web.Mvc.xml
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaqueteTuristico.MVC\bin\System.Web.Optimization.xml
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaqueteTuristico.MVC\bin\System.Web.Razor.xml
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaqueteTuristico.MVC\bin\System.Web.WebPages.xml
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaqueteTuristico.MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaqueteTuristico.MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaqueteTuristico.MVC\bin\Antlr3.Runtime.pdb
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaqueteTuristico.MVC\bin\Newtonsoft.Json.xml
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaqueteTuristico.MVC\bin\Microsoft.ApplicationInsights.xml
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaqueteTuristico.MVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaqueteTuristico.MVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaqueteTuristico.MVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaqueteTuristico.MVC\bin\Microsoft.AI.Web.xml
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaqueteTuristico.MVC\bin\es\System.Web.Helpers.resources.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaqueteTuristico.MVC\bin\es\System.Web.Mvc.resources.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaqueteTuristico.MVC\bin\es\System.Web.Optimization.resources.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaqueteTuristico.MVC\bin\es\System.Web.Razor.resources.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaqueteTuristico.MVC\bin\es\System.Web.WebPages.resources.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaqueteTuristico.MVC\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaqueteTuristico.MVC\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaqueteTuristico.MVC\obj\Debug\PaqueteTuristico.MVC.csprojResolveAssemblyReference.cache
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaqueteTuristico.MVC\obj\Debug\PaqueteTuristico.MVC.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaqueteTuristico.MVC\obj\Debug\PaqueteTuristico.MVC.pdb
+D:\PaqueteTuristico\PaqueteTuristico.MVC\obj\Debug\PaqueteTuristico.MVC.csprojResolveAssemblyReference.cache
+D:\PaqueteTuristico\PaqueteTuristico.MVC\obj\Debug\PaqueteTuristico.MVC.csproj.CoreCompileInputs.cache
+D:\PaqueteTuristico\PaqueteTuristico.MVC\obj\Debug\PaqueteTuristico.MVC.dll
+D:\PaqueteTuristico\PaqueteTuristico.MVC\obj\Debug\PaqueteTuristico.MVC.pdb
+D:\PaqueteTuristico\PaqueteTuristico.MVC\bin\ApplicationInsights.config
+D:\PaqueteTuristico\PaqueteTuristico.MVC\bin\roslyn\csc.exe
+D:\PaqueteTuristico\PaqueteTuristico.MVC\bin\roslyn\csc.exe.config
+D:\PaqueteTuristico\PaqueteTuristico.MVC\bin\roslyn\csc.rsp
+D:\PaqueteTuristico\PaqueteTuristico.MVC\bin\roslyn\csi.exe
+D:\PaqueteTuristico\PaqueteTuristico.MVC\bin\roslyn\csi.rsp
+D:\PaqueteTuristico\PaqueteTuristico.MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\PaqueteTuristico\PaqueteTuristico.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\PaqueteTuristico\PaqueteTuristico.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\PaqueteTuristico\PaqueteTuristico.MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\PaqueteTuristico\PaqueteTuristico.MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\PaqueteTuristico\PaqueteTuristico.MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PaqueteTuristico\PaqueteTuristico.MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\PaqueteTuristico\PaqueteTuristico.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\PaqueteTuristico\PaqueteTuristico.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\PaqueteTuristico\PaqueteTuristico.MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\PaqueteTuristico\PaqueteTuristico.MVC\bin\roslyn\System.AppContext.dll
+D:\PaqueteTuristico\PaqueteTuristico.MVC\bin\roslyn\System.Collections.Immutable.dll
+D:\PaqueteTuristico\PaqueteTuristico.MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\PaqueteTuristico\PaqueteTuristico.MVC\bin\roslyn\System.IO.FileSystem.dll
+D:\PaqueteTuristico\PaqueteTuristico.MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\PaqueteTuristico\PaqueteTuristico.MVC\bin\roslyn\System.Reflection.Metadata.dll
+D:\PaqueteTuristico\PaqueteTuristico.MVC\bin\roslyn\vbc.exe
+D:\PaqueteTuristico\PaqueteTuristico.MVC\bin\roslyn\vbc.exe.config
+D:\PaqueteTuristico\PaqueteTuristico.MVC\bin\roslyn\vbc.rsp
+D:\PaqueteTuristico\PaqueteTuristico.MVC\bin\roslyn\VBCSCompiler.exe
+D:\PaqueteTuristico\PaqueteTuristico.MVC\bin\roslyn\VBCSCompiler.exe.config
+D:\PaqueteTuristico\PaqueteTuristico.MVC\bin\PaqueteTuristico.MVC.dll.config
+D:\PaqueteTuristico\PaqueteTuristico.MVC\bin\PaqueteTuristico.MVC.dll
+D:\PaqueteTuristico\PaqueteTuristico.MVC\bin\PaqueteTuristico.MVC.pdb
+D:\PaqueteTuristico\PaqueteTuristico.MVC\bin\Antlr3.Runtime.dll
+D:\PaqueteTuristico\PaqueteTuristico.MVC\bin\EntityFramework.dll
+D:\PaqueteTuristico\PaqueteTuristico.MVC\bin\EntityFramework.SqlServer.dll
+D:\PaqueteTuristico\PaqueteTuristico.MVC\bin\Microsoft.AI.Agent.Intercept.dll
+D:\PaqueteTuristico\PaqueteTuristico.MVC\bin\Microsoft.AI.DependencyCollector.dll
+D:\PaqueteTuristico\PaqueteTuristico.MVC\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\PaqueteTuristico\PaqueteTuristico.MVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\PaqueteTuristico\PaqueteTuristico.MVC\bin\Microsoft.AI.Web.dll
+D:\PaqueteTuristico\PaqueteTuristico.MVC\bin\Microsoft.AI.WindowsServer.dll
+D:\PaqueteTuristico\PaqueteTuristico.MVC\bin\Microsoft.ApplicationInsights.dll
+D:\PaqueteTuristico\PaqueteTuristico.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PaqueteTuristico\PaqueteTuristico.MVC\bin\Microsoft.Web.Infrastructure.dll
+D:\PaqueteTuristico\PaqueteTuristico.MVC\bin\Newtonsoft.Json.dll
+D:\PaqueteTuristico\PaqueteTuristico.MVC\bin\Ninject.dll
+D:\PaqueteTuristico\PaqueteTuristico.MVC\bin\Ninject.Web.Common.dll
+D:\PaqueteTuristico\PaqueteTuristico.MVC\bin\Ninject.Web.Mvc.dll
+D:\PaqueteTuristico\PaqueteTuristico.MVC\bin\PaquetesTuristicos.Entities.dll
+D:\PaqueteTuristico\PaqueteTuristico.MVC\bin\PaquetesTuristicos.Persistence.dll
+D:\PaqueteTuristico\PaqueteTuristico.MVC\bin\System.Web.Helpers.dll
+D:\PaqueteTuristico\PaqueteTuristico.MVC\bin\System.Web.Mvc.dll
+D:\PaqueteTuristico\PaqueteTuristico.MVC\bin\System.Web.Optimization.dll
+D:\PaqueteTuristico\PaqueteTuristico.MVC\bin\System.Web.Razor.dll
+D:\PaqueteTuristico\PaqueteTuristico.MVC\bin\System.Web.WebPages.Deployment.dll
+D:\PaqueteTuristico\PaqueteTuristico.MVC\bin\System.Web.WebPages.dll
+D:\PaqueteTuristico\PaqueteTuristico.MVC\bin\System.Web.WebPages.Razor.dll
+D:\PaqueteTuristico\PaqueteTuristico.MVC\bin\WebActivatorEx.dll
+D:\PaqueteTuristico\PaqueteTuristico.MVC\bin\WebGrease.dll
+D:\PaqueteTuristico\PaqueteTuristico.MVC\bin\PaquetesTuristicos.Entities.pdb
+D:\PaqueteTuristico\PaqueteTuristico.MVC\bin\PaquetesTuristicos.Persistence.pdb
+D:\PaqueteTuristico\PaqueteTuristico.MVC\bin\PaquetesTuristicos.Persistence.dll.config
+D:\PaqueteTuristico\PaqueteTuristico.MVC\bin\EntityFramework.xml
+D:\PaqueteTuristico\PaqueteTuristico.MVC\bin\EntityFramework.SqlServer.xml
+D:\PaqueteTuristico\PaqueteTuristico.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PaqueteTuristico\PaqueteTuristico.MVC\bin\Ninject.xml
+D:\PaqueteTuristico\PaqueteTuristico.MVC\bin\Ninject.Web.Common.xml
+D:\PaqueteTuristico\PaqueteTuristico.MVC\bin\Ninject.Web.Mvc.xml
+D:\PaqueteTuristico\PaqueteTuristico.MVC\bin\System.Web.Helpers.xml
+D:\PaqueteTuristico\PaqueteTuristico.MVC\bin\System.Web.Mvc.xml
+D:\PaqueteTuristico\PaqueteTuristico.MVC\bin\System.Web.Optimization.xml
+D:\PaqueteTuristico\PaqueteTuristico.MVC\bin\System.Web.Razor.xml
+D:\PaqueteTuristico\PaqueteTuristico.MVC\bin\System.Web.WebPages.xml
+D:\PaqueteTuristico\PaqueteTuristico.MVC\bin\System.Web.WebPages.Deployment.xml
+D:\PaqueteTuristico\PaqueteTuristico.MVC\bin\System.Web.WebPages.Razor.xml
+D:\PaqueteTuristico\PaqueteTuristico.MVC\bin\Antlr3.Runtime.pdb
+D:\PaqueteTuristico\PaqueteTuristico.MVC\bin\Newtonsoft.Json.xml
+D:\PaqueteTuristico\PaqueteTuristico.MVC\bin\Microsoft.ApplicationInsights.xml
+D:\PaqueteTuristico\PaqueteTuristico.MVC\bin\Microsoft.AI.DependencyCollector.xml
+D:\PaqueteTuristico\PaqueteTuristico.MVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\PaqueteTuristico\PaqueteTuristico.MVC\bin\Microsoft.AI.WindowsServer.xml
+D:\PaqueteTuristico\PaqueteTuristico.MVC\bin\Microsoft.AI.Web.xml
+D:\PaqueteTuristico\PaqueteTuristico.MVC\bin\es\System.Web.Helpers.resources.dll
+D:\PaqueteTuristico\PaqueteTuristico.MVC\bin\es\System.Web.Mvc.resources.dll
+D:\PaqueteTuristico\PaqueteTuristico.MVC\bin\es\System.Web.Optimization.resources.dll
+D:\PaqueteTuristico\PaqueteTuristico.MVC\bin\es\System.Web.Razor.resources.dll
+D:\PaqueteTuristico\PaqueteTuristico.MVC\bin\es\System.Web.WebPages.resources.dll
+D:\PaqueteTuristico\PaqueteTuristico.MVC\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\PaqueteTuristico\PaqueteTuristico.MVC\bin\es\System.Web.WebPages.Razor.resources.dll
+G:\PaqueteTuristico\PaqueteTuristico.MVC\bin\ApplicationInsights.config
+G:\PaqueteTuristico\PaqueteTuristico.MVC\bin\roslyn\csc.exe
+G:\PaqueteTuristico\PaqueteTuristico.MVC\bin\roslyn\csc.exe.config
+G:\PaqueteTuristico\PaqueteTuristico.MVC\bin\roslyn\csc.rsp
+G:\PaqueteTuristico\PaqueteTuristico.MVC\bin\roslyn\csi.exe
+G:\PaqueteTuristico\PaqueteTuristico.MVC\bin\roslyn\csi.rsp
+G:\PaqueteTuristico\PaqueteTuristico.MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\PaqueteTuristico\PaqueteTuristico.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\PaqueteTuristico\PaqueteTuristico.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\PaqueteTuristico\PaqueteTuristico.MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\PaqueteTuristico\PaqueteTuristico.MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\PaqueteTuristico\PaqueteTuristico.MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\PaqueteTuristico\PaqueteTuristico.MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\PaqueteTuristico\PaqueteTuristico.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\PaqueteTuristico\PaqueteTuristico.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\PaqueteTuristico\PaqueteTuristico.MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\PaqueteTuristico\PaqueteTuristico.MVC\bin\roslyn\System.AppContext.dll
+G:\PaqueteTuristico\PaqueteTuristico.MVC\bin\roslyn\System.Collections.Immutable.dll
+G:\PaqueteTuristico\PaqueteTuristico.MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\PaqueteTuristico\PaqueteTuristico.MVC\bin\roslyn\System.IO.FileSystem.dll
+G:\PaqueteTuristico\PaqueteTuristico.MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\PaqueteTuristico\PaqueteTuristico.MVC\bin\roslyn\System.Reflection.Metadata.dll
+G:\PaqueteTuristico\PaqueteTuristico.MVC\bin\roslyn\vbc.exe
+G:\PaqueteTuristico\PaqueteTuristico.MVC\bin\roslyn\vbc.exe.config
+G:\PaqueteTuristico\PaqueteTuristico.MVC\bin\roslyn\vbc.rsp
+G:\PaqueteTuristico\PaqueteTuristico.MVC\bin\roslyn\VBCSCompiler.exe
+G:\PaqueteTuristico\PaqueteTuristico.MVC\bin\roslyn\VBCSCompiler.exe.config
+G:\PaqueteTuristico\PaqueteTuristico.MVC\bin\PaqueteTuristico.MVC.dll.config
+G:\PaqueteTuristico\PaqueteTuristico.MVC\bin\PaqueteTuristico.MVC.dll
+G:\PaqueteTuristico\PaqueteTuristico.MVC\bin\PaqueteTuristico.MVC.pdb
+G:\PaqueteTuristico\PaqueteTuristico.MVC\bin\Antlr3.Runtime.dll
+G:\PaqueteTuristico\PaqueteTuristico.MVC\bin\EntityFramework.dll
+G:\PaqueteTuristico\PaqueteTuristico.MVC\bin\EntityFramework.SqlServer.dll
+G:\PaqueteTuristico\PaqueteTuristico.MVC\bin\Microsoft.AI.Agent.Intercept.dll
+G:\PaqueteTuristico\PaqueteTuristico.MVC\bin\Microsoft.AI.DependencyCollector.dll
+G:\PaqueteTuristico\PaqueteTuristico.MVC\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\PaqueteTuristico\PaqueteTuristico.MVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\PaqueteTuristico\PaqueteTuristico.MVC\bin\Microsoft.AI.Web.dll
+G:\PaqueteTuristico\PaqueteTuristico.MVC\bin\Microsoft.AI.WindowsServer.dll
+G:\PaqueteTuristico\PaqueteTuristico.MVC\bin\Microsoft.ApplicationInsights.dll
+G:\PaqueteTuristico\PaqueteTuristico.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\PaqueteTuristico\PaqueteTuristico.MVC\bin\Microsoft.Web.Infrastructure.dll
+G:\PaqueteTuristico\PaqueteTuristico.MVC\bin\Newtonsoft.Json.dll
+G:\PaqueteTuristico\PaqueteTuristico.MVC\bin\Ninject.dll
+G:\PaqueteTuristico\PaqueteTuristico.MVC\bin\Ninject.Web.Common.dll
+G:\PaqueteTuristico\PaqueteTuristico.MVC\bin\Ninject.Web.Mvc.dll
+G:\PaqueteTuristico\PaqueteTuristico.MVC\bin\PaquetesTuristicos.Entities.dll
+G:\PaqueteTuristico\PaqueteTuristico.MVC\bin\PaquetesTuristicos.Persistence.dll
+G:\PaqueteTuristico\PaqueteTuristico.MVC\bin\System.Web.Helpers.dll
+G:\PaqueteTuristico\PaqueteTuristico.MVC\bin\System.Web.Mvc.dll
+G:\PaqueteTuristico\PaqueteTuristico.MVC\bin\System.Web.Optimization.dll
+G:\PaqueteTuristico\PaqueteTuristico.MVC\bin\System.Web.Razor.dll
+G:\PaqueteTuristico\PaqueteTuristico.MVC\bin\System.Web.WebPages.Deployment.dll
+G:\PaqueteTuristico\PaqueteTuristico.MVC\bin\System.Web.WebPages.dll
+G:\PaqueteTuristico\PaqueteTuristico.MVC\bin\System.Web.WebPages.Razor.dll
+G:\PaqueteTuristico\PaqueteTuristico.MVC\bin\WebActivatorEx.dll
+G:\PaqueteTuristico\PaqueteTuristico.MVC\bin\WebGrease.dll
+G:\PaqueteTuristico\PaqueteTuristico.MVC\bin\PaquetesTuristicos.Entities.pdb
+G:\PaqueteTuristico\PaqueteTuristico.MVC\bin\PaquetesTuristicos.Persistence.pdb
+G:\PaqueteTuristico\PaqueteTuristico.MVC\bin\PaquetesTuristicos.Persistence.dll.config
+G:\PaqueteTuristico\PaqueteTuristico.MVC\bin\EntityFramework.xml
+G:\PaqueteTuristico\PaqueteTuristico.MVC\bin\EntityFramework.SqlServer.xml
+G:\PaqueteTuristico\PaqueteTuristico.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\PaqueteTuristico\PaqueteTuristico.MVC\bin\Ninject.xml
+G:\PaqueteTuristico\PaqueteTuristico.MVC\bin\Ninject.Web.Common.xml
+G:\PaqueteTuristico\PaqueteTuristico.MVC\bin\Ninject.Web.Mvc.xml
+G:\PaqueteTuristico\PaqueteTuristico.MVC\bin\System.Web.Helpers.xml
+G:\PaqueteTuristico\PaqueteTuristico.MVC\bin\System.Web.Mvc.xml
+G:\PaqueteTuristico\PaqueteTuristico.MVC\bin\System.Web.Optimization.xml
+G:\PaqueteTuristico\PaqueteTuristico.MVC\bin\System.Web.Razor.xml
+G:\PaqueteTuristico\PaqueteTuristico.MVC\bin\System.Web.WebPages.xml
+G:\PaqueteTuristico\PaqueteTuristico.MVC\bin\System.Web.WebPages.Deployment.xml
+G:\PaqueteTuristico\PaqueteTuristico.MVC\bin\System.Web.WebPages.Razor.xml
+G:\PaqueteTuristico\PaqueteTuristico.MVC\bin\Antlr3.Runtime.pdb
+G:\PaqueteTuristico\PaqueteTuristico.MVC\bin\Newtonsoft.Json.xml
+G:\PaqueteTuristico\PaqueteTuristico.MVC\bin\Microsoft.ApplicationInsights.xml
+G:\PaqueteTuristico\PaqueteTuristico.MVC\bin\Microsoft.AI.DependencyCollector.xml
+G:\PaqueteTuristico\PaqueteTuristico.MVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\PaqueteTuristico\PaqueteTuristico.MVC\bin\Microsoft.AI.WindowsServer.xml
+G:\PaqueteTuristico\PaqueteTuristico.MVC\bin\Microsoft.AI.Web.xml
+G:\PaqueteTuristico\PaqueteTuristico.MVC\bin\es\System.Web.Helpers.resources.dll
+G:\PaqueteTuristico\PaqueteTuristico.MVC\bin\es\System.Web.Mvc.resources.dll
+G:\PaqueteTuristico\PaqueteTuristico.MVC\bin\es\System.Web.Optimization.resources.dll
+G:\PaqueteTuristico\PaqueteTuristico.MVC\bin\es\System.Web.Razor.resources.dll
+G:\PaqueteTuristico\PaqueteTuristico.MVC\bin\es\System.Web.WebPages.resources.dll
+G:\PaqueteTuristico\PaqueteTuristico.MVC\bin\es\System.Web.WebPages.Deployment.resources.dll
+G:\PaqueteTuristico\PaqueteTuristico.MVC\bin\es\System.Web.WebPages.Razor.resources.dll
+G:\PaqueteTuristico\PaqueteTuristico.MVC\obj\Debug\PaqueteTuristico.MVC.csprojResolveAssemblyReference.cache
+G:\PaqueteTuristico\PaqueteTuristico.MVC\obj\Debug\PaqueteTuristico.MVC.dll
+G:\PaqueteTuristico\PaqueteTuristico.MVC\obj\Debug\PaqueteTuristico.MVC.pdb
